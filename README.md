@@ -18,9 +18,9 @@ Before you begin, make sure you have the following installed:
 1.[Install visual studio](https://code.visualstudio.com/)
 
 
-2.[Python latest vresion] (https://python.org/)
+2.[Python latest vresion](https://python.org/)
 
-based on your convinence you can download any one ,but python is necessity.
+Based on your convinence you can download any one ,but python is necessity.
 
 # Features💫
 
