@@ -15,10 +15,10 @@ Welcome to the Face Detection and Human Tracking project using OpenCV and Python
 _Prerequisites:_
 Before you begin, make sure you have the following installed:
 
-1.[Install visual studio]([<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/))
+1.[Install visual studio](https://code.visualstudio.com/)
 
 
-2.[Python latest vresion] ([<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/))
+2.[Python latest vresion] (https://python.org/)
 
 based on your convinence you can download any one ,but python is necessity.
 
