@@ -11,7 +11,7 @@ This repository contains Python code for face detection and human tracking using
 ### Getting Started💥
 Welcome to the Face Detection and Human Tracking project using OpenCV and Python! This guide will help you set up and run the project on your local machine.
 
-_Prerequisites:_
+## Prerequisites:
 Before you begin, make sure you have the following installed:
 
 1.Install visual studio
