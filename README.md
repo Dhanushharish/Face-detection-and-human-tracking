@@ -44,23 +44,26 @@ Based on your convinence you can download any one ,but python is necessity.
 **Notice:**
 
 ***
-   * All file should be in the same folder if no means program dosen't run.
+   *  **All file** should be in the **same folder**. if no means program dosen't run.
 ***
 
 **Setup:**
-
 ***
-* If you download vscode ,open file-new file-click the extracted file
+
+**VISUAL CODE**
+
+* If you download **vscode** ,open file **-** new file **-** click the extracted file
 
 * Then open new terminal and install the given package:
 
-***
    **OpenCV library-**(pip install opencv-python)
 
-***
 * After install the library run the main.py file 
+***
 
-* If you download python latest version 
+**PYTHON**
+
+* If you download **python** latest version 
 
 * then run using F5
 ***
