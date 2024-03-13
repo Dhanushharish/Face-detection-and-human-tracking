@@ -5,13 +5,13 @@ This repository contains Python code for face detection and human tracking using
 
 ### Tables of Contents📜
 
-[Getting Started](https://github.com/dhanushharish/face-detection-and-human-tracking/main.README.md#getting-started)
+[Getting Started](#getting-started)
 
-[Features](https://github.com/dhanushharish/face-detection-and-human-tracking/main.README.md#Features)
+[Features](#Features)
 
-[Package installation in cmd](https://github.com/dhanushharish/face-detection-and-human-tracking/main.README.md#Package-installation-in-cmd)
+[Package installation in cmd](#Package-installation-in-cmd)
 
-[Demo](https://github.com/dhanushharish/face-detection-and-human-tracking/main.README.md#demo)
+[Demo](#demo)
 
 # Getting Started💥
 
@@ -39,8 +39,10 @@ Based on your convinence you can download any one ,but python is necessity.
 **Performance Optimization:** Optimize the performance of the system for real-time processing, especially on resource-constrained devices. Implement techniques such as parallel processing, hardware acceleration, and model optimization to achieve faster execution speeds.
 
 # Package installation in cmd💡
+
 **Notice:**
-   All file should be in the same folder if no means program dosen't run
+   All file should be in the same folder if no means program dosen't run.
+   
 **Setup:**
 If you download vscode ,open file-new file-click the extracted file
 
@@ -48,9 +50,10 @@ Then open new terminal and install the given package:
 
 **OpenCV library**-(pip install opencv-python)
 
-*After install the library run the main.py file 
+***
+* After install the library run the main.py file 
 
-*If you download python latest version 
+* If you download python latest version 
 
 then run using F5
 
