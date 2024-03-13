@@ -40,12 +40,20 @@ Based on your convinence you can download any one ,but python is necessity.
 **Performance Optimization:** Optimize the performance of the system for real-time processing, especially on resource-constrained devices. Implement techniques such as parallel processing, hardware acceleration, and model optimization to achieve faster execution speeds.
 
 # Package installation in cmd💡
-
+**Notice**
+   All file should be in the same folder if no means program dosen't run
+**Setup:**
 If you download vscode ,open file-new file-click the extracted file
 
 Then open new terminal and install the given package:
 
-**OpenCV library** (pip install opencv-python)
+**OpenCV library**-(pip install opencv-python)
+
+After install the library run the main.py file 
+
+If you download python latest version 
+
+then run using F5
 
 # Demo💻
 **Screenshort of the project:**
@@ -56,7 +64,7 @@ Then open new terminal and install the given package:
 
 
 
-# Languages and Tools I Love💙
+# Languages using for this project...
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
