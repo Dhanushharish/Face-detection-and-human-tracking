@@ -22,7 +22,6 @@ Before you begin, make sure you have the following installed:
 
 1.[Install visual studio](https://code.visualstudio.com/)
 
-
 2.[Python latest vresion](https://python.org/)
 
 Based on your convinence you can download any one ,but python is necessity.
@@ -40,7 +39,7 @@ Based on your convinence you can download any one ,but python is necessity.
 **Performance Optimization:** Optimize the performance of the system for real-time processing, especially on resource-constrained devices. Implement techniques such as parallel processing, hardware acceleration, and model optimization to achieve faster execution speeds.
 
 # Package installation in cmd💡
-**Notice**
+**Notice:**
    All file should be in the same folder if no means program dosen't run
 **Setup:**
 If you download vscode ,open file-new file-click the extracted file
@@ -49,9 +48,9 @@ Then open new terminal and install the given package:
 
 **OpenCV library**-(pip install opencv-python)
 
-After install the library run the main.py file 
+*After install the library run the main.py file 
 
-If you download python latest version 
+*If you download python latest version 
 
 then run using F5
 
