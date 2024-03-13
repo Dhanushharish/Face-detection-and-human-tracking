@@ -3,4 +3,5 @@ This repository contains Python code for face detection and human tracking using
 
 
 Tables of Contents:
+
 [Getting Started]
