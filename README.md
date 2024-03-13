@@ -8,19 +8,21 @@ This repository contains Python code for face detection and human tracking using
 [Features](https://github.com/dhanushharish/face-detection-and-human-tracking/main.README.md#Features)
 [Package installation in cmd](https://github.com/dhanushharish/face-detection-and-human-tracking/main.README.md#Package-installation-in-cmd)
 [Demo](https://github.com/dhanushharish/face-detection-and-human-tracking/main.README.md#demo)
-### Getting Started💥
+
+# Getting Started💥
 Welcome to the Face Detection and Human Tracking project using OpenCV and Python! This guide will help you set up and run the project on your local machine.
 
-## Prerequisites:
+_Prerequisites:_
 Before you begin, make sure you have the following installed:
 
-1.Install visual studio
+1.[Install visual studio]([<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/))
 
-2.Python latest vresion
+
+2.[Python latest vresion] ([<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/))
 
 based on your convinence you can download any one ,but python is necessity.
 
-### Features💫
+# Features💫
 
 Face Detection: Implement a robust face detection algorithm using Haar Cascade classifiers or deep learning-based models. Detect faces in images or real-time video streams with high accuracy.
 
@@ -32,7 +34,7 @@ Customization Options: Provide options for users to customize parameters such as
 
 Performance Optimization: Optimize the performance of the system for real-time processing, especially on resource-constrained devices. Implement techniques such as parallel processing, hardware acceleration, and model optimization to achieve faster execution speeds.
 
-### Package installation in cmd💡
+# Package installation in cmd💡
 
 If you download vscode ,open file-new file-click the extracted file
 
@@ -40,7 +42,7 @@ Then open new terminal and install the given package:
 
 OpenCV library (pip install opencv-python)
 
-### Demo💻
+# Demo💻
 Screenshort of the project:
 
 ![Sample output pic1](https://github.com/Dhanushharish/Face-detection-and-human-tracking/assets/91535902/0d2b14ca-ff09-4537-8e7c-fe5591daeab8)
@@ -49,7 +51,7 @@ Screenshort of the project:
 
 
 
-### Languages and Tools I Love💙![Uploading Sample output pic 2.png…]()
+# Languages and Tools I Love💙
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
