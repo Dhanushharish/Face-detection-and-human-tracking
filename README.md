@@ -17,7 +17,7 @@ This repository contains Python code for face detection and human tracking using
 
 Welcome to the Face Detection and Human Tracking project using OpenCV and Python! This guide will help you set up and run the project on your local machine.
 
-**Prerequisites:
+**Prerequisites:**
 Before you begin, make sure you have the following installed:
 
 1.[Install visual studio](https://code.visualstudio.com/)
@@ -29,15 +29,15 @@ Based on your convinence you can download any one ,but python is necessity.
 
 # Features💫
 
-Face Detection: Implement a robust face detection algorithm using Haar Cascade classifiers or deep learning-based models. Detect faces in images or real-time video streams with high accuracy.
+**Face Detection:** Implement a robust face detection algorithm using Haar Cascade classifiers or deep learning-based models. Detect faces in images or real-time video streams with high accuracy.
 
-Real-time Tracking: Track human faces and bodies in real-time video streams. Utilize techniques like object tracking to maintain continuity in tracking even with occlusions or changes in appearance.
+**Real-time Tracking:** Track human faces and bodies in real-time video streams. Utilize techniques like object tracking to maintain continuity in tracking even with occlusions or changes in appearance.
 
-Multiple Object Detection: Extend the project to detect and track multiple faces or humans simultaneously in the same video stream. Implement methods to handle overlapping detections and maintain separate tracks for each object.
+**Multiple Object Detection:** Extend the project to detect and track multiple faces or humans simultaneously in the same video stream. Implement methods to handle overlapping detections and maintain separate tracks for each object.
 
-Customization Options: Provide options for users to customize parameters such as detection thresholds, tracking algorithms, and output visualization settings. Allow users to fine-tune the system according to their specific requirements.
+**Customization Options:** Provide options for users to customize parameters such as detection thresholds, tracking algorithms, and output visualization settings. Allow users to fine-tune the system according to their specific requirements.
 
-Performance Optimization: Optimize the performance of the system for real-time processing, especially on resource-constrained devices. Implement techniques such as parallel processing, hardware acceleration, and model optimization to achieve faster execution speeds.
+**Performance Optimization:** Optimize the performance of the system for real-time processing, especially on resource-constrained devices. Implement techniques such as parallel processing, hardware acceleration, and model optimization to achieve faster execution speeds.
 
 # Package installation in cmd💡
 
@@ -45,10 +45,10 @@ If you download vscode ,open file-new file-click the extracted file
 
 Then open new terminal and install the given package:
 
-OpenCV library (pip install opencv-python)
+**OpenCV library** (pip install opencv-python)
 
 # Demo💻
-Screenshort of the project:
+**Screenshort of the project:**
 
 ![Sample output pic1](https://github.com/Dhanushharish/Face-detection-and-human-tracking/assets/91535902/0d2b14ca-ff09-4537-8e7c-fe5591daeab8)
 
