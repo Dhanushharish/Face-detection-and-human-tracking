@@ -1,6 +1,6 @@
 # Face-detection-and-human-tracking using opencv 
 
-This repository contains Python code for face detection and human tracking using the OpenCV library. OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. This project focuses on detecting faces in images or video streams and tracking humans in real-time.
+Python code for face detection and human tracking using the OpenCV library. OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. This project focuses on detecting faces in images or video streams and tracking humans in real-time.
 
 
 ### Tables of Contents📜
@@ -15,14 +15,12 @@ This repository contains Python code for face detection and human tracking using
 
 # Getting Started💥
 
-Welcome to the Face Detection and Human Tracking project using OpenCV and Python! 
+Welcome to the Face Detection and Human Tracking project using OpenCV and Python! This guide will help you set up and run the project on your local machine.
 
-This guide will help you set up and run the project on your local machine.
-
+***
 **Prerequisites:**
 Before you begin, make sure you have the following installed:
 
-***
 * [Install visual studio](https://code.visualstudio.com/)
 
 * [Python latest vresion](https://python.org/)
@@ -44,9 +42,11 @@ Based on your convinence you can download any one ,but python is necessity.
 # Package installation in cmd💡
 
 **Notice:**
+
 ***
    * All file should be in the same folder if no means program dosen't run.
-   
+***
+
 **Setup:**
 
 ***
@@ -54,16 +54,18 @@ Based on your convinence you can download any one ,but python is necessity.
 
 * Then open new terminal and install the given package:
 
-**OpenCV library**-(pip install opencv-python)
+***
+   **OpenCV library-**(pip install opencv-python)
 
 ***
 * After install the library run the main.py file 
 
 * If you download python latest version 
 
-then run using F5
-
+* then run using F5
+***
 # Demo💻
+
 **Screenshort of the project:**
 
 ![Sample output pic1](https://github.com/Dhanushharish/Face-detection-and-human-tracking/assets/91535902/0d2b14ca-ff09-4537-8e7c-fe5591daeab8)
